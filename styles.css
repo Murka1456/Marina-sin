@@ -3,9 +3,11 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
   color: rgb(210, 30, 168);
+  height: auto;
   border-radius: 50%;
   border: 2px;
   border-style: double;
+  width: 10vw;
 
 }
 header{
