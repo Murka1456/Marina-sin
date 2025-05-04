@@ -4,6 +4,9 @@ h1 {
   font-size: 1.5rem;
   color: rgb(210, 30, 168);
   border-radius: 50%;
+  border: 2px;
+  border-style: double;
+
 }
 header{
   background-color: bisque;
