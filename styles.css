@@ -25,6 +25,7 @@ header{
 }
 ul{
   display: flex;
+  right: 10%;
   gap: 20px;
   padding: 10px;
   margin-right: auto;
