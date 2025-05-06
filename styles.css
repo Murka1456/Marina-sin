@@ -33,3 +33,8 @@ ul{
   margin-right: auto;
 
 }
+nav{
+  width: 60%;
+  dispey:flex;
+  justify-content: flex-end;
+}
