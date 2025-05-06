@@ -31,10 +31,16 @@ ul{
   gap: 20px;
   padding: 10px;
   margin-right: auto;
+  list-style: none;
 
 }
 nav{
   width: 60%;
-  dispey:flex;
+  display:flex;
   justify-content: flex-end;
+
+  
+}
+li{
+  text-decoration: underline;
 }
