@@ -55,7 +55,8 @@ li{
   
 }
 .container{
-  
+  display: flex;
+  gap: 10px;
   font-size: medium;
   text-align: center;
 }
