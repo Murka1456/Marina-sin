@@ -54,9 +54,13 @@ li{
   font-size: medium;
   
 }
-.container{
+.Arbeid{
   display: flex;
   gap: 10px;
   font-size: medium;
   text-align: center;
+}
+.ArbeidImg{
+  width: 300px;
+  height: 350px;
 }
