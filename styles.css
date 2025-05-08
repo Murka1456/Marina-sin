@@ -44,6 +44,13 @@ nav{
 li{
   text-decoration: underline;
 }
-.herotext{
+.herotext{height: 100px;
+  wight:50% ;
+  font-size: medium;
   
+}
+.container{
+  height: 100px;
+  wight:50%;
+  font-size: medium;
 }
