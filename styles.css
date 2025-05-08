@@ -22,35 +22,35 @@ header{
   width: 20px;
 }
 .mycardImg{
-  height: 35px;
-  width: 30px;
+  height: 100px;
+  width: 100px;
 }
 ul{
   display: flex;
-  right: 10%;
+
   gap: 20px;
   padding: 10px;
-  margin-right: auto;
+
   list-style: none;
 
 }
-nav{
-  width: 60%;
+.hero{
+  
   display:flex;
-  justify-content: flex-end;
+  justify-content: center;
 
   
 }
 li{
   text-decoration: underline;
 }
-.herotext{height: 100px;
-  wight:50% ;
+.herotext{
+  width:50% ;
   font-size: medium;
   
 }
 .container{
-  height: 100px;
-  wight:50%;
+  width:50%;
   font-size: medium;
+  text-align: centers;
 }
