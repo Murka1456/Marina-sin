@@ -33,6 +33,8 @@ header{
 .mycardImg{
   height: 100px;
   width: 100px;
+  padding: 10px 15px;
+  margin: 7px;
 
   
 }
@@ -63,6 +65,9 @@ li{
   font-size: medium;
   box-sizing: border-box;
   float: right;
+  background-color: rgb(200, 241, 241);
+  padding: 10px 15px;
+  margin: 7px;
   
 }
 .Arbeid{
