@@ -26,6 +26,8 @@ header{
   font-size: 2rem;
   display: flex;
   justify-content: center;
+  padding: 10px 15px;
+  margin: 7px;
   }
 
 .mycardImg{
