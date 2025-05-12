@@ -102,10 +102,13 @@ footer{
   display: flex;
   justify-content: center;
   gap: 90px;
+  padding-top: 60px;
 }
 main{
-  height: 80%;
+ 
+
 }
 .Arbeid{
-  padding: 10px 15px;
+  padding: 60px 15px;
+  height: 80%;
 }
