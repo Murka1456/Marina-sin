@@ -15,7 +15,8 @@ h1 {
 header{
   background-color: bisque;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 300px;
 }
 
   h2{
@@ -36,10 +37,7 @@ header{
 
   
 }
-.firstImg{
-  width: 300px;
-  height: 300px;
-}
+
 ul{
   display: flex;
 
@@ -78,7 +76,9 @@ li{
 }
 .ArbeidImg{
   width: 250px;
-  height: 300px; border-radius: 20%;
+  height: 300px;
+  border-radius: 15%;
+  border-style: solid;
   border: 2px;
   border-color: blue;
 
@@ -106,7 +106,7 @@ li{
 footer{
   display: flex;
   justify-content: left;
-  gap: 90px;
+  gap: 10px;
   padding-top: 5px;
 }
 main{
