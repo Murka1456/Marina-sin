@@ -74,10 +74,13 @@ li{
   gap: 10px;
   font-size: medium;
   text-align: center;
+  border-radius: 20%;
+  border: 2px;
+  border-color: blue;
 }
 .ArbeidImg{
-  width: 300px;
-  height: 350px;
+  width: 250px;
+  height: 300px;
 }
 .menu{
   box-sizing: border-box;
