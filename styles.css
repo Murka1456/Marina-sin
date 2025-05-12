@@ -28,6 +28,7 @@ header{
   justify-content: center;
   padding: 10px 15px;
   margin: 7px;
+  
   }
 
 .mycardImg{
@@ -54,7 +55,7 @@ ul{
 .hero{
   display:flex;
   justify-content: center;
-  
+  gap: 50px;
   
 }
 li{
