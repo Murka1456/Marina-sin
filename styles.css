@@ -24,6 +24,7 @@ header{
 .mycardImg{
   height: 100px;
   width: 100px;
+
   
 }
 .firstImg{
@@ -42,7 +43,9 @@ ul{
 .hero{
   
   display:flex;
-  justify-content: center;
+  float: right;
+  width: 80%;
+  padding: 10px 15px;
 
   
 }
