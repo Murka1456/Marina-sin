@@ -87,3 +87,8 @@ li{
   padding: 10px 15px;
   margin-top: 7px;
 }
+.menuitem{
+  padding: 8px;
+  margin-top: 7px;
+  border-bottom: 1px solid lightblue;
+}
