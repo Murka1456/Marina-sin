@@ -52,14 +52,15 @@ ul{
 .hero{
   display:flex;
   justify-content: center;
-  gap: 90px;
+  gap: 60px;
+  padding-top: 60px;
   
 }
 li{
   text-decoration: underline;
 }
 .herotext{
-  width:50% ;
+  width: 72% ;
   font-size: medium;
   box-sizing: border-box;
   float: right;
@@ -102,7 +103,7 @@ footer{
   display: flex;
   justify-content: center;
   gap: 90px;
-  padding-top: 60px;
+  padding-top: 30px;
 }
 main{
  
