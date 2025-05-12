@@ -100,4 +100,6 @@ li{
 }
 footer{
   display: flex;
+  justify-content: center;
+  gap: 90px;
 }
