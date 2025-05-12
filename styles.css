@@ -103,3 +103,6 @@ footer{
   justify-content: center;
   gap: 90px;
 }
+main{
+  height: 80%;
+}
